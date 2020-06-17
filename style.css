@@ -1,0 +1,57 @@
+.year {
+    font-size: 40px;
+}
+
+body {
+    padding-bottom: 80px;
+}
+.col{
+    color: white;
+}
+.rotate {
+
+  transform: rotate(-90deg);
+
+
+  /* Legacy vendor prefixes that you probably don't need... */
+
+  /* Safari */
+  -webkit-transform: rotate(-90deg);
+
+  /* Firefox */
+  -moz-transform: rotate(-90deg);
+
+  /* IE */
+  -ms-transform: rotate(-90deg);
+
+  /* Opera */
+  -o-transform: rotate(-90deg);
+
+  /* Internet Explorer */
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+    text-align: end;
+    position:fixed;
+    right:-40px;
+    bottom: 150px;
+  
+  
+}
+.end{
+    color: white;
+    background-color: black;
+}
+
+.vl {
+  border-left: 2px solid black;
+border-color: black;
+  height: 300px;
+}
+.heading{
+    font-weight: 200;
+}
+
+.cardb{
+    background-color:white;
+    color:black;
+    height: 100px;
+}
